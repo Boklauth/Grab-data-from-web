@@ -1,1 +1,2 @@
 # Grab-data-from-web
+This is an example of how you can get data from a website that spans across ten years for 15 institutions. Each website is unique, so the function and the script dependent found here will need to be altered. For the websites that are public, you can get the link to the page. However, for some websites that require a login, you may need to save the web page on your local machine. I find it easier to save the web pages to your local machine because data on the web are subject to change. 
